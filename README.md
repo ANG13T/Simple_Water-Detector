@@ -6,7 +6,7 @@ A simple circuit which detects water or touch by utilizing two 2n2222 transistor
 
 - Breadboard
 - 2 2n2222 transistors
-- A power source
+- A power source (I used the 5V pin from the arduino, but feel free to use something else)
 - Around 10 jumper wires
 - Piezoelectric speaker
 - 100 ohm resistor
